@@ -14,22 +14,22 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;cqgy3CYY#welt87_DhCyvuXnDsEGQNhghv5-pYdRaGfpjLi3vQBo' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://mr_hassa_user:kKQULMYlJY3c0ineMFWvrC9jAFSHChYv@dpg-cl4brj3iu76s739hvks0-a.frankfurt-postgres.render.com/mr_hassa'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94765742244'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'MR HASSA'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = 'false' // Inboc Block Message
 
 global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
@@ -45,9 +45,9 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
 
 global.FOOTER = 'Queen Nilu 2023'
 
-global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
+global.BOT_OFFLINE = true    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@MR HASSA' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
@@ -63,7 +63,7 @@ global.MAX_SIZE = '500' // Bot Uloading Max size
 
 global.ANTI_BAD = true // Antibad (on = True , Off = False )
 
-global.ANTI_BAD_ACTION = false
+global.ANTI_BAD_ACTION = true
 
 global.ANTI_LINK = true //Anti Link (on = True , Off = False )
 
@@ -80,7 +80,7 @@ global.SEX_DL = 'false' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
-global.AUTO_STICKER = true
+global.AUTO_STICKER = flase
 
 global.AUTO_REPLY = true
 
